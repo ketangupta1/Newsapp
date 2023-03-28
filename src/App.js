@@ -1,25 +1,29 @@
-import logo from './logo.svg';
-import './App.css';
+import "./App.css";
 
-function App() {
+import React from "react";
+import NavBar from "./components/NavBar";
+import News from "./components/News";
+import useWindowSize from "react-use/lib/useWindowSize";
+import Confetti from "react-confetti";
+import{
+  BrowserRouter as Router,
+  Routes,
+  Route
+} from "react-router-dom";
+
+
+export default function App() {
+  const { width, height } = useWindowSize()
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <>
+    <Router>
+      <NavBar />
+      <Routes>
+      <Route path='/news' element = {<News/>}/>
+        <Route path='/confetti' element = {<Confetti width={width} height={height}/>}/>
+      </Routes>
+      </Router>
+    </>
+    
   );
 }
-
-export default App;

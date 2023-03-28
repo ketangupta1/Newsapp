@@ -1,0 +1,56 @@
+{
+  "status": "ok",
+  "totalResults": 5,
+  "articles": [
+    {
+      "source": { "id": "news-com-au", "name": "News.com.au" },
+      "author": null,
+      "title": "‘So sad’: Cricket mourns loss of legend",
+      "description": "<p>The cricket world is mourning the loss of Australian cricket icon Warren Saunders.</p>",
+      "url": "https://www.news.com.au/sport/cricket/cricket-world-mourns-death-of-nsw-legend-warren-saunders/news-story/4a70efe74b81e4cfa0a79a74b98ee38f",
+      "urlToImage": "https://content.api.news/v3/images/bin/04507368cb1ef6aa348d89ec81de2a0d",
+      "publishedAt": "2023-03-01T09:29:00Z",
+      "content": "The cricket world is mourning the loss of Australian cricket icon Warren Saunders.\r\nSaunders died at the age of 88 on Wednesday morning.\r\nThe NSW legend and former skipper of the state side made his … [+1876 chars]"
+    },
+    {
+      "source": { "id": "news24", "name": "News24" },
+      "author": "Heinz Schenk",
+      "title": "How 'binning' social media proved a catalyst for polarising Markram's resurgence",
+      "description": "Aiden Markram has attributed his promising renaissance as an international cricketer partly to getting off social media.",
+      "url": "https://www.news24.com/sport/cricket/proteas/how-binning-social-media-proved-a-catalyst-for-polarising-markrams-resurgence-20230301",
+      "urlToImage": null,
+      "publishedAt": "2023-03-01T06:42:35+00:00",
+      "content": "<ul><li>Aiden Markram has attributed his promising renaissance as an international cricketer partly to getting off social media.</li><li>Perceived as too mild-mannered and lacking steel by some, he's… [+4739 chars]"
+    },
+    {
+      "source": { "id": "bbc-sport", "name": "BBC Sport" },
+      "author": null,
+      "title": "Yorkshire cricket racism hearing to begin",
+      "description": "Michael Vaughan and Azeem Rafiq are due to appear at a hearing into the Yorkshire racism scandal, which starts on Wednesday.",
+      "url": "http://www.bbc.co.uk/sport/cricket/64784843",
+      "urlToImage": "https://ichef.bbci.co.uk/live-experience/cps/624/cpsprodpb/1813C/production/_128802689_bbc-sport-index-imagery-2-split-images-gradient-df6fe04f-0d3f-49a3-9592-8cbd5dd4109d.png",
+      "publishedAt": "2023-02-28T23:07:24.3724373Z",
+      "content": "Former Yorkshire cricketer Azeem Rafiq is due to appear in person to give evidence at this week's disciplinary hearing\r\nThe racism scandal that has engulfed Yorkshire County Cricket Club and the Engl… [+11219 chars]"
+    },
+    {
+      "source": { "id": "espn-cric-info", "name": "ESPN Cric Info" },
+      "author": null,
+      "title": "PCB hands Umar Akmal three-year ban from all cricket | ESPNcricinfo.com",
+      "description": "Penalty after the batsman pleaded guilty to not reporting corrupt approaches | ESPNcricinfo.com",
+      "url": "http://www.espncricinfo.com/story/_/id/29103103/pcb-hands-umar-akmal-three-year-ban-all-cricket",
+      "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1099495_800x450.jpg",
+      "publishedAt": "2020-04-27T11:41:47Z",
+      "content": "Umar Akmal's troubled cricket career has hit its biggest roadblock yet, with the PCB handing him a ban from all representative cricket for three years after he pleaded guilty of failing to report det… [+1506 chars]"
+    },
+    {
+      "source": { "id": "espn-cric-info", "name": "ESPN Cric Info" },
+      "author": null,
+      "title": "What we learned from watching the 1992 World Cup final in full again | ESPNcricinfo.com",
+      "description": "Wides, lbw calls, swing - plenty of things were different in white-ball cricket back then | ESPNcricinfo.com",
+      "url": "http://www.espncricinfo.com/story/_/id/28970907/learned-watching-1992-world-cup-final-full-again",
+      "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1219926_1296x729.jpg",
+      "publishedAt": "2020-03-30T15:26:05Z",
+      "content": "Last week, we at ESPNcricinfo did something we have been thinking of doing for eight years now: pretend-live ball-by-ball commentary for a classic cricket match. We knew the result, yes, but we tried… [+6823 chars]"
+    }
+  ]
+}
